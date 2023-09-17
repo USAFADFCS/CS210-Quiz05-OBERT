@@ -12,7 +12,7 @@
             
     int sideLength = 0;
     printf("enter the size: ");
-    scanf("%i", &sideLength);
+    scanf("%d", &sideLength);
 
     // YOUR CODE GOES HERE
 
