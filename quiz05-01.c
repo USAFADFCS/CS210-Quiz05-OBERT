@@ -14,9 +14,9 @@
     int lastNum = 0;
     
     printf("enter the first number: ");
-    scanf("%i", &firstNum);
+    scanf("%d", &firstNum);
     printf("enter the last number: ");
-    scanf("%i", &lastNum);
+    scanf("%d", &lastNum);
 
     // YOUR CODE GOES HERE
 
